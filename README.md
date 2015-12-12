@@ -12,10 +12,10 @@
 Usage: python tfrecords_util.py examples_list_file name output_directory resize resize_height resize_width
 
 - examples_list_file
-
-image1_path label
-image2_path label
-...
+  
+image1_path label  
+image2_path label  
+...  
 
 
 - name
