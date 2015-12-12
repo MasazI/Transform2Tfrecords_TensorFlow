@@ -24,6 +24,7 @@ prefix of tfrecords's file. When you set train, you'll get train.tfrecords.
 
 
 - resize
+
 If you want to resize images, Set True.
 
 
