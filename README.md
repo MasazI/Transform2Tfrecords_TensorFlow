@@ -1,6 +1,6 @@
 # Transform2Tfrecords_TensorFlow
 
-'tfrecords' is The recommended format for TensorFlow. You can get tfrecords form images and labels list using this tool.
+'tfrecords' is The recommended format for TensorFlow. You can get 'tfrecords' from images and labels list using this tool.
 
 ## dependencies
 - OpenCV
